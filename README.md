@@ -85,3 +85,6 @@
 ![포인트내역](https://github.com/gydn123/SpringProject/assets/121388591/c297c66b-126a-48c5-a46e-14fb8a841e3e)
 - 총 사용가능한 포인트와 적립,사용이력을 확인
 
+# 힘들었던 점
+- 
+

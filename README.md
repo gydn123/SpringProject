@@ -1,4 +1,4 @@
-![image](https://github.com/gydn123/SpringProject/assets/121388591/6dc6bd7b-3121-4554-b6c2-00c33546adb6)# SpringProject
+# SpringProject
 - ### 스프링 프레임워크를 이용한 놀이공원 할인을 통한 예매권 구매 사이트
   - [기획의도](#기획의도)
   - [사용기술](#사용기술)

@@ -202,14 +202,15 @@ $(function() {
 		    }else if(window.confirm("구매 하시겠습니까?")){
 		var myArray = [];
 		var use_point = document.getElementById('mypoint').value;
+		var sum_point = parseFloat("${data1[0]['sum_point']}");
 		var checknumbox = document.querySelector('.numbox');
 		
-		if(checkquantity == 0 ){
+		if(checkquantity === 0 ){
 			alert("최소 1개이상 선택 하셔야 합니다");
 			return
 		}
 		
-		if(use_point > "${data1[0]['sum_point'] }" || use_point < 0){
+		if(use_point > sum_point || use_point < 0){
 			alert('사용 가능한 포인트가 아닙니다');
 			return
 		}

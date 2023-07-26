@@ -4,6 +4,9 @@
   - [사용기술](#사용기술)
   - [담당파트](#담당파트)
 
+## AWS주소
+- http://www.excitingamusement.com/
+
 <br/>
 
 ## 개발기간 
